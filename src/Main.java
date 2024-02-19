@@ -7,5 +7,6 @@ public class Main {
         System.out.println();
         System.out.println("Test to make sure still working");
         System.out.println("This is fun");
+        System.out.println("Will I be prevented from doing this?");
     }
 }
